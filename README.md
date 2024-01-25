@@ -8,9 +8,8 @@
 ## :white_check_mark: TECNOLIGIAS / FRAMEWORKS:
 - ``HTML``
 - ``CSS``
+- ``SASS``
 - ``JAVASCRIPT``
-- ``ANGULAR``
-- ``REACT``
 
 ## :mag: INSTRUTORES:
 
