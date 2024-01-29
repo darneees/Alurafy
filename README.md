@@ -5,7 +5,7 @@
 ![Captura de tela 2024-01-25 083937](https://github.com/darneees/Alurafy/assets/79709843/4c45abde-8b6b-4620-abe8-e91e7d1cecbc)
 
 
-## :white_check_mark: TECNOLIGIAS / FRAMEWORKS:
+## :white_check_mark: TECNOLIGIAS:
 - ``HTML``
 - ``CSS``
 - ``SASS``
